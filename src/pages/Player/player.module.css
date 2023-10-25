@@ -1,10 +1,9 @@
-.container {
-    display: flex;
-    justify-content: space-around;
-}
-
 .texto h1 {
     font-size: 32px;
     font-weight: 500;
     text-align: center;
+}
+
+iframe {
+    height: 80vh;
 }
